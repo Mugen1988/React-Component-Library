@@ -1,6 +1,6 @@
 import React from "react"
 import Testimonials from "./Testimonials"
-import {logoUrl} from "/images/testimonial-logo.png"
+import logoUrl from "/images/testimonial-logo.png"
 
 export default function TestimonialWithoutImage() {
     return (
