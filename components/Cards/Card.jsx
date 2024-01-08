@@ -1,7 +1,7 @@
 import React from 'react'
 import Cards from './Cards'
 import { nanoid } from 'nanoid'
-import {imageUrl} from "/images/card-icon.png"
+import imageUrl from "/images/card-icon.png"
 
 export default function Card({type}){
     return (
