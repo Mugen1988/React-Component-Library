@@ -1,7 +1,7 @@
 import React from "react"
 import Testimonials from "./Testimonials"
-import {imageUrl} from "/images/testimonial-image.png"
-import {iconUrl} from "/images/testimonial-icon.png"
+import imageUrl from "/images/testimonial-image.png"
+import iconUrl from "/images/testimonial-icon.png"
 
 export default function TestimonialWithImage() {
     return (
